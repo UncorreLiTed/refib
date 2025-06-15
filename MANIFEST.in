@@ -1,0 +1,11 @@
+include LICENSE
+include README.rst
+include CHANGELOG.rst
+include pyproject.toml
+recursive-include refib *.py
+recursive-include tests *.py
+recursive-include examples *.py
+prune .github
+exclude .gitignore
+exclude .flake8
+exclude benchmark_comparison.py
