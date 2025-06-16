@@ -209,10 +209,3 @@ License
 -------
 
 MIT
-
-Star History
-------------
-
-.. image:: https://api.star-history.com/svg?repos=uncorrelited/refib&type=Date
-   :target: https://star-history.com/#uncorrelited/refib&Date
-   :alt: Star History Chart
